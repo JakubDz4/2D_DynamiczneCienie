@@ -85,7 +85,7 @@ Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
 ## Jak uruchomić aplikację
 
 1. W celu pobrania aplikacji, kliknij w poniższy link lub przejdź do zakładki **Releases** w repozytorium:
-   - [Pobierz aplikację]([https://github.com/JakubDz4/2D_DynamiczneCienie/releases/tag/school])
+   - [Pobierz aplikację](https://github.com/JakubDz4/2D_DynamiczneCienie/releases/tag/school)
 
 2. Po pobraniu aplikacji, rozpakuj pliki (jeśli są w formacie ZIP) i przejdź do folderu, w którym znajdują się pliki aplikacji.
 
