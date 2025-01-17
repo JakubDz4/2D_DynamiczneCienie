@@ -1,7 +1,7 @@
 # 2D_DynamiczneCienie
 
 # Opis projektu
-2D_DynamiczneCienie to aplikacja 2D stworzona przy użyciu OpenGL oraz PyGame. Celem projektu jest stworzenie interaktywnej aplikacji wizualizacyjnej, która wykorzystuje technologię renderowania 3D w czasie rzeczywistym.
+2D_DynamiczneCienie to aplikacja 2D stworzona przy użyciu OpenGL oraz PyGame. Celem projektu jest stworzenie interaktywnej aplikacji wizualizacyjnej, która wykorzystuje technologię renderowania 3D w czasie rzeczywistym oraz tym samym zaliczenie przedmiotu do szkoły.
 
 ![Podgląd okna aplikacji](images/grafika.png)
 
