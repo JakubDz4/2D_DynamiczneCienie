@@ -85,7 +85,7 @@ Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
 ## Jak uruchomić aplikację
 
 1. W celu pobrania aplikacji, kliknij w poniższy link lub przejdź do zakładki **Releases** w repozytorium:
-   - [Pobierz aplikację](link_do_releases)
+   - [Pobierz aplikację]([https://github.com/JakubDz4/2D_DynamiczneCienie/releases/tag/school])
 
 2. Po pobraniu aplikacji, rozpakuj pliki (jeśli są w formacie ZIP) i przejdź do folderu, w którym znajdują się pliki aplikacji.
 
@@ -96,14 +96,14 @@ Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
 - **Poruszanie światłem**: Aby poruszać światłem w aplikacji, używaj kursora myszy.
 - **Zamykanie aplikacji**: Aplikację zamkniesz klikając w przycisk **X** w prawym górnym rogu okna.
 - **Zmiana opcji**: Aby zmienić opcje aplikacji, edytuj plik `config.ini` w folderze z aplikacją. W pliku tym możesz zmieniać ustawienia takie jak:
-  - [Przykład]: `shadowQuality=8`
-  - [Przykład]: `shadowQualityStep=0.015`
-  - [Przykład]: `screenWidth=1200`
-  - [Przykład]: `screenHeight=1000`
+  - shadowQuality = 8
+  - shadowQualityStep = 0.015
+  - screenWidth = 1200
+  - screenHeight = 1000
 
 # Informacje o autorze
 
 Projekt został stworzony przez [Barnaba]. 
 
-[GitHub: TwojeImie](https://github.com/JakubDz4)
+[GitHub: Barnaba](https://github.com/JakubDz4)
   
