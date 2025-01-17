@@ -106,4 +106,14 @@ Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
 Projekt został stworzony przez [Barnaba]. 
 
 [GitHub: Barnaba](https://github.com/JakubDz4)
+
+# Licencja
+
+Ten projekt jest udostępniony na licencji MIT. Szczegóły licencji można znaleźć w pliku `LICENSE` w tym repozytorium.
+
+## Krótkie podsumowanie licencji MIT:
+- Możesz korzystać, kopiować, modyfikować, łączyć, publikować, dystrybuować, sublicencjonować i/lub sprzedawać kopie tego oprogramowania.
+- Oprogramowanie jest dostarczane "tak jak jest", bez żadnych gwarancji.
+- Wszelkie kopie oprogramowania muszą zawierać oryginalną informację o licencji MIT i autorze.
+
   
