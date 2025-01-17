@@ -26,17 +26,17 @@
 
 Celem projektu 2D_DynamiczneCienie jest stworzenie aplikacji wykorzystującej otwarte biblioteki oraz API w kontekście grafiki 3D. Aplikacja może służyć jako narzędzie do nauki programowania grafiki komputerowej lub jako baza do zaliczenia projektu do szkoły lub na studia.
 
-# Instrukcja dla dewelopera
-
-Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
-
-## Wymagania systemowe
+# Wymagania systemowe
 Projekt jest napisany w języku Python i wykorzystuje biblioteki OpenGL oraz Pygame. Upewnij się, że masz zainstalowane następujące oprogramowanie:
 
 - **Python** w wersji 3.10
 - **pip** (Python package installer) do instalacji zależności
 - **Virtualenv** (zalecane do stworzenia środowiska wirtualnego)
 - **OpenGL 3.3** Karta graficzna obsługująca OpenGL 3.3 lub wyższą wersję.
+
+# Instrukcja dla dewelopera
+
+Aby rozpocząć pracę z projektem, wykonaj poniższe kroki.
 
 ## Instalacja
 1. **Sklonuj repozytorium** na swoje lokalne środowisko:
@@ -105,5 +105,5 @@ Projekt jest napisany w języku Python i wykorzystuje biblioteki OpenGL oraz Pyg
 
 Projekt został stworzony przez [Barnaba]. 
 
-[GitHub: TwojeImie](https://github.com/TwojeImie)
+[GitHub: TwojeImie](https://github.com/JakubDz4)
   
